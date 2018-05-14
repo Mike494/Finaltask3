@@ -1,0 +1,53 @@
+@import url("https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css");
+@import url("https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js");
+
+.App {
+}
+
+.App-body {
+  margin: 20px;
+}
+
+.App-buttonbar {
+  margin: 10px;
+}
+
+.App-header {
+  text-align: center;
+  background-color: #6a6f7f;
+  padding: 13px;
+  color: white;
+  border-bottom: 15px solid #ccc;
+}
+
+.App-title {
+  font-size: 1.8em;
+}
+.welcome {
+  margin-left: 18px;
+  display: inline;
+}
+
+.Welcome-msg {
+  font-size: 16px;
+  color: #555;
+  float: left;
+  margin-left: 25px;
+}
+
+.List-title {
+  font-size: 1.5em;
+}
+
+.List-header {
+  text-align: center;
+  background-color: #6a6f7f;
+  padding: 10px;
+  color: white;
+  border: 5px solid Silver;
+}
+
+.calendar {
+  min-height: 700px;
+  margin:50px;
+}
